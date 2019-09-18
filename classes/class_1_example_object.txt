@@ -1,0 +1,13 @@
+6 person high top table
+
+Attributes
+current_Capacity (0)
+total_Capacity (6)
+Height (4 feet)
+Server (Sue)
+
+Methods
+party_Seated (total_Capacity-current_Capacity)
+party_Leaves (current_Capacity- total_Capacity)
+move_Table (remove Sue + Mark)
+put_Table_On_Stage (Increase height by 6 inches)

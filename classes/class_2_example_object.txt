@@ -1,0 +1,13 @@
+Pint Glass
+
+Attributes
+color (clear)
+current_Capacity (0)
+Available_Capacity (16)
+Broken (false)
+
+Methods
+sprayPaint (changes color attribute to green)
+pourOut (Increases Available_Capacity to 16)
+fillUp (Increases current_Capacity to 16 and decreases Available_Capacity to 0)
+throwOnGround (True)
