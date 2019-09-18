@@ -1,0 +1,13 @@
+Table
+
+Attributes:
+current_Capacity (integer)
+total_Capacity (integer)
+Height (float)
+Server (string)
+
+Method:
+party_Seated (effects current_Capacity)
+party-leaves (effectrs total_Capacity)
+move_Table (effects server)
+put_Table_On_Stage (increases height)
