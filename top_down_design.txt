@@ -1,0 +1,36 @@
+1 Get accepted to program
+  1.1 Attend Try Turing
+    1.1.1 spend saturday learning about Ruby
+    1.1.2 spend sunday learning about Javascript
+  1.2 Apply to Turing
+    1.2.1 complete online assessment
+    1.2.2 submit resume
+  1.3 Interview In person
+    1.3.1 discuss past experience with Turing Instructor
+    1.3.2 in-person Assessment
+    1.3.3 discuss financial and time obligations
+2 Complete Mod 0
+  2.1 Attend all six of the mod 0 sessions
+    2.1.1 be attentive and engaged on zoom
+    2.1.2 ask questions
+    2.1.3 answer questions
+    2.1.4 take notes
+  2.2 Complete post session work
+    2.2.1 complete all readings
+    2.2.2 complete Survey
+    2.2.3 Work on practice tasks
+    2.2.4 go through zoom recording for clarification on topics
+    2.2.5 complete all homework tasks
+3 Complete Capstone Project
+  3.1 Finish each day's different technical tasks
+    3.1.1 Day 0- terminal work
+    3.1.2 Day 1- strings and numbers
+    3.1.3 Day 2- arrays and iteration
+    3.1.3 Day 3- if statements and loops
+    3.1.4 day 4- methods and return values
+    3.1.5 day 5- hashes
+    3.1.6 day 6- classes
+    3.1.7 day 7- build a thing
+  3.2 Complete Non-technical Work
+    3.2.1 Gear up assignment
+    3.2.2 Career developmnent assignment
