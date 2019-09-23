@@ -1,14 +1,15 @@
 Glass
 
-Attributes
-Color (string)
-current_Capacity (integer)
-Available_Capacity (integer)
-Broken (boolean)
+attributes:
 
-methods
+color (string)
+current_capacity (integer)
+available_capacity (integer)
+broken (boolean)
 
-sprayPaint (effects Color)
-pourOut (effects Available_Capacity)
-fillUp (decreases Available_Capacity and increases current_Capacity)
-throwOnGround (effects broken)
+methods:
+
+spray_paint (changes color)
+pour_out (changes available_capacity)
+fill_up (increases current_capacity)
+throw_on_ground (effects broken)
