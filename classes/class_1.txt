@@ -1,13 +1,15 @@
 Table
 
-Attributes:
-current_Capacity (integer)
-total_Capacity (integer)
-Height (float)
-Server (string)
+attributes:
 
-Method:
-party_Seated (effects current_Capacity)
-party_Leaves (effects total_Capacity)
-move_Table (effects server)
-put_Table_On_Stage (increases height)
+current_capacity (integer)
+available_capacity (integer)
+current_height (float)
+server (string)
+
+method:
+
+seat_party (effects current_capacity )
+add_chair (effects available_capacity )
+move_table (effects server)
+put_table_on_stage (increases height)
